@@ -1,0 +1,6 @@
+/Users/whitthyde/Documents/MIS 333K/HW/Hyde_Whitt_HW2/Hyde_Whitt_HW2/bin/Debug/Hyde_Whitt_HW2.exe
+/Users/whitthyde/Documents/MIS 333K/HW/Hyde_Whitt_HW2/Hyde_Whitt_HW2/bin/Debug/Hyde_Whitt_HW2.pdb
+/Users/whitthyde/Documents/MIS 333K/HW/Hyde_Whitt_HW2/Hyde_Whitt_HW2/obj/x86/Debug/Hyde_Whitt_HW2.csprojAssemblyReference.cache
+/Users/whitthyde/Documents/MIS 333K/HW/Hyde_Whitt_HW2/Hyde_Whitt_HW2/obj/x86/Debug/Hyde_Whitt_HW2.csproj.CoreCompileInputs.cache
+/Users/whitthyde/Documents/MIS 333K/HW/Hyde_Whitt_HW2/Hyde_Whitt_HW2/obj/x86/Debug/Hyde_Whitt_HW2.exe
+/Users/whitthyde/Documents/MIS 333K/HW/Hyde_Whitt_HW2/Hyde_Whitt_HW2/obj/x86/Debug/Hyde_Whitt_HW2.pdb
